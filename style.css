@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', ;
+}
+.hdlight {
+    color: orange;
+}
+.half {
+    width: 40%;
+    float: left;
+}
+.half img {
+    width: 100%;
+}
